@@ -1,0 +1,14 @@
+---
+title: "R Notebook"
+output:
+  word_document: default
+  html_notebook: default
+---
+
+```{r}
+source(here('R', 'librerie.R'))
+```
+# CAPITOLO
+## Paragrafo
+### Subparagrafo
+#### Subsubparagrafo
